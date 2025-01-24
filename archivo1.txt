@@ -1,2 +1,2 @@
-Estamos practicando git PUSH
+Estamos practicando git PUSH Y ACÁ también modificamos.
 git add archivo1.txt 
